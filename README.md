@@ -7,7 +7,7 @@
 ### App Walk-though
 `TODO://` Add the URL to your animated app walk-though `gif` in the image tag below. Make sure the gif actually renders and animates when viewing this README. (☝️ Remove this paragraph after after adding gif)
 
-<img src="https://gfycat.com/boguswelltodoamericanbittern" width=200><br>
+<img src="![app demo](https://user-images.githubusercontent.com/72886722/104146863-3d183e00-539a-11eb-804c-cf046751543c.gif)" width=200><br>
 
 
 ### Required User Stories
