@@ -1,6 +1,7 @@
 ## HELLOWORLD
+
 ### App Description
-`TODO://` Add app description
+This Hello World App is a pre-work project for CodePath.org’s Intro to Mobile Product Development course.
 ![app demo](https://user-images.githubusercontent.com/72886722/104147028-bfa0fd80-539a-11eb-9d16-94b96f2c1fb5.gif) 
 
 ### Required User Stories
