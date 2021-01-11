@@ -4,11 +4,8 @@
 ### App Description
 `TODO://` Add app description
 
-### App Walk-though
-`TODO://` Add the URL to your animated app walk-though `gif` in the image tag below. Make sure the gif actually renders and animates when viewing this README. (☝️ Remove this paragraph after after adding gif)
 
-<img src=![app demo](https://user-images.githubusercontent.com/72886722/104147028-bfa0fd80-539a-11eb-9d16-94b96f2c1fb5.gif) width=200><br>
-
+![app demo](https://user-images.githubusercontent.com/72886722/104147028-bfa0fd80-539a-11eb-9d16-94b96f2c1fb5.gif) 
 
 ### Required User Stories
 - [x] 1. User sees custom text in a label - Hello from {name}!
