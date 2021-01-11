@@ -1,10 +1,6 @@
-# Hello
-## NAME_OF_YOUR_APP_HERE
-
+## HELLOWORLD
 ### App Description
 `TODO://` Add app description
-
-
 ![app demo](https://user-images.githubusercontent.com/72886722/104147028-bfa0fd80-539a-11eb-9d16-94b96f2c1fb5.gif) 
 
 ### Required User Stories
